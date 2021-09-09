@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\bin\Debug\netcoreapp3.1\MyGuessingGame.exe
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\bin\Debug\netcoreapp3.1\MyGuessingGame.deps.json
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\bin\Debug\netcoreapp3.1\MyGuessingGame.runtimeconfig.json
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\bin\Debug\netcoreapp3.1\MyGuessingGame.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\bin\Debug\netcoreapp3.1\MyGuessingGame.dll
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\bin\Debug\netcoreapp3.1\MyGuessingGame.pdb
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.AssemblyInfo.cs
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.dll
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.pdb
+C:\Users\ACER\source\repos\MyGuessingGame\MyGuessingGame\obj\Debug\netcoreapp3.1\MyGuessingGame.genruntimeconfig.cache
